@@ -1,0 +1,20 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container mt-5">
+    <h1>Task Automation Tool</h1>
+    <form method="post">
+        <div class="form-group">
+            <label for="directoryPath">Enter the directory path to organize files:</label>
+            <input type="text" class="form-control" id="directoryPath" name="directoryPath" required />
+        </div>
+        <button type="submit" class="btn btn-primary">Organize Files</button>
+    </form>
+    @if (Model.Message != null)
+    {
+        <div class="alert alert-info mt-3">@Model.Message</div>
+    }
+</div>

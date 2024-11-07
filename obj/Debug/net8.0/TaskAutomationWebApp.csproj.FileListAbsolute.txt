@@ -1,0 +1,7 @@
+C:\Users\User1\Downloads\New folder\TaskAutomationWebApp\obj\Debug\net8.0\TaskAutomationWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Downloads\New folder\TaskAutomationWebApp\obj\Debug\net8.0\TaskAutomationWebApp.AssemblyInfoInputs.cache
+C:\Users\User1\Downloads\New folder\TaskAutomationWebApp\obj\Debug\net8.0\TaskAutomationWebApp.AssemblyInfo.cs
+C:\Users\User1\Downloads\New folder\TaskAutomationWebApp\obj\Debug\net8.0\TaskAutomationWebApp.csproj.CoreCompileInputs.cache
+C:\Users\User1\Downloads\New folder\TaskAutomationWebApp\obj\Debug\net8.0\TaskAutomationWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User1\Downloads\New folder\TaskAutomationWebApp\obj\Debug\net8.0\TaskAutomationWebApp.RazorAssemblyInfo.cache
+C:\Users\User1\Downloads\New folder\TaskAutomationWebApp\obj\Debug\net8.0\TaskAutomationWebApp.RazorAssemblyInfo.cs
